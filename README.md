@@ -28,11 +28,10 @@ docker-compose up -d --build
 Now visit <http://localhost:8000/docs> 
 
 ## Login
-login with admin
 
-username =  admin
+username :  admin
 
-password = admin
+password : admin
 
 
 
